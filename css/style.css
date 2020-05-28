@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* ul li {
+    list-style: none;
+} */
+
+a{
+    text-decoration: none;
+}
+.slider{
+    max-height: 500px;
+}
+.color{
+    background-color: #09f;
+}
+.textcolor{
+    color: #09f;
+}
+.Featured{
+    text-shadow: 4px 4px 5px grey;
+}
+.projects{
+   width: 280px;
+   height: 180px;
+}
+.footer{
+    background-color: black;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    line-height: 1em;
+}
+.copyright{
+    background-color: #09f;
+    color: white;
+}
+.card-img-top{
+    max-height: 300px;
+}
+.card-text{
+    font-size: 0.9em;
+}
+.About{
+    box-shadow: 5px 5px 10px silver;
+    background-color: #f1f8fb;
+}
